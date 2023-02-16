@@ -14,7 +14,7 @@
 #include <pthread.h>
 #include "../include/fl2000_ioctl.h"
 
-#define	FL2K_NAME	"/dev/fl2000-0"
+#define	FL2K_NAME	"/dev/fl2000-1"
 
 /*
  * definitions
